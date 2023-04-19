@@ -1,0 +1,53 @@
+
+.wd{color: blueviolet;
+    border: 20px;
+    border-width: 40%;
+    border-style: double;
+    background-image:url(../images/teh.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: black;
+    text-align: center;
+    height: 650px;
+    background-position:center;
+    opacity: 80%;
+    padding: 45px;
+    font-weight: bold;
+    line-height: 190%;
+    margin: auto;
+    padding: 250px 50px 50px 50px ;
+    
+
+}
+.q{
+    cursor: pointer;
+    font-weight: bold;
+    font-style: italic;
+    border: 5px;
+    border: width 20%; ;
+    border-style: double;
+    color: darkorange;
+    background-color: black;
+    text-align: center;
+    cursor: pointer;
+
+}
+.w{ cursor: pointer;
+    font-weight: bold;
+    font-style: italic;
+    border: 5px;
+    border: width 20%; ;
+    border-style: dotted;
+    color: black ;
+    text-align: center;
+    cursor: pointer;background-color: darkgray;
+
+}
+.wbd{
+    color:blue;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-weight: bold;
+    background-color: cornflowerblue;
+
+}
